@@ -32,7 +32,7 @@ Cost per use can be calculated as:
 
 This provides a neutral way to assess value without judgement.
 
-## Optional tool
+## Tool to Use
 
 If you want to calculate annual costs, cost per use, and breakeven usage automatically for multiple subscriptions, a spreadsheet-based calculator is available here:
 
