@@ -1,4 +1,4 @@
-# How Subscription Costs Add Up Over Time
+# Subscription Cost & Breakeven Calculator
 
 Subscriptions often seem inexpensive in isolation, but their true cost is easy to underestimate because they are spread across weeks or months.
 
