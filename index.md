@@ -12,5 +12,6 @@ This site contains clear, factual explanations and simple tools focused on under
 - Subscription costs and recurring expenses
 - How everyday financial systems work
 - Simple tools and explanations
+- [How subscription costs add up over time](subscription-costs)
 
 More pages will be added over time.
